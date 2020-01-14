@@ -1,9 +1,19 @@
  Tag Dictionary:
  
+ !DOCTYPE: Selects which version of html you want to use
+     attributes: typing html gives you most recent version
+ 
  a href="" /a: The anchor tag, "anchors" a URL to a word and makes it clickable and blue. When clicked will bring you to the website that was linked
+ 
+ body /body: Contains the content of the webpage
  
  h1-h6 /h1-/h6: The header tag, creates a large bolded text and puts it on a seperate line. The header text varies in size, h1 being the biggest, and h6 being the
 smallest
+ 
+ head /head: Contains things for your browser to think about -->
+      title /title
+ 
+ html /html: tells browser where your html code starts and ends
  
  img src="": The image tag, allows you to upload a image directly onto your website
  

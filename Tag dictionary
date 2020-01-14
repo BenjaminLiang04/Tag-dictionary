@@ -1,0 +1,17 @@
+ Tag Dictionary:
+ 
+ a href="" /a: The anchor tag, "anchors" a URL to a word and makes it clickable and blue. When clicked will bring you to the website that was linked
+ 
+ h1-h6 /h1-/h6: The header tag, creates a large bolded text and puts it on a seperate line. The header text varies in size, h1 being the biggest, and h6 being the
+smallest
+ 
+ img src="": The image tag, allows you to upload a image directly onto your website
+ 
+ li /li: The list tag, allows you to list items, through numbers if using the ordered list tag or bullet points if using the unordered list tag.
+ 
+ ol /ol: The ordered list tag, allows you to order items with numbers (1,2,3, etc...).
+ 
+ p /p: The paragraph tag, allows you to seperate text into paragraphs.
+ 
+ ul /ul: The unordered list tag, allows you to order items without numbers, instead using bullet points
+ 
